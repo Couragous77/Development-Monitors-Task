@@ -16,4 +16,9 @@ After scaling down, I was finally able to see the model.
 The model was still not in the conditions that I wanted but due to a lack of remaining time, I chose to submit so I was unable to play around with the model further.
 
 
-Here is the link for the demo: https://couragous77.github.io/Development-Monitors-Task/
+Here is the link for the hosted site by github: 
+https://couragous77.github.io/Development-Monitors-Task/
+
+Here is the link to the demo: 
+https://github.com/Couragous77/Development-Monitors-Task/assets/132855294/9fe13e5b-69e8-4262-8dd6-1f93368a50fa
+
