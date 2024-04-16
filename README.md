@@ -14,3 +14,6 @@ The image did indeed show so I assumed there must either be a lighting issue or 
 I then played around with two lights and found one that worked. I could see something new but it wasnt what I saw on blender when I uploaded the gtfl file so I started playing with the size and scale of the model. 
 After scaling down, I was finally able to see the model. 
 The model was still not in the conditions that I wanted but due to a lack of remaining time, I chose to submit so I was unable to play around with the model further.
+
+
+Here is the link for the demo: https://couragous77.github.io/Development-Monitors-Task/
